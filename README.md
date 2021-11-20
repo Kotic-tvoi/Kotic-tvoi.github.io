@@ -1,2 +1,2 @@
-# Kotic-tvoi_Hw_CC.github.io
+# Kotic-tvoi.github.io
 Конспект курса
