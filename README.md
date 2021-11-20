@@ -1,2 +1,2 @@
-# Kotic-tvoi.github.io 
+# Kotic-tvoi.github.io
 Конспект курса
